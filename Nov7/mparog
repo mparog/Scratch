@@ -1,0 +1,50 @@
+Go to Scratch for Budding Computer Scientists (link on bit.ly/SAHSCS) and answer the
+following questions.
+
+You will need to create a file that is named your username and paste your answers in it.
+After you have completed the questions, submit a pull request in this same repository.
+
+1) Why is there such a "learning curve" when learning a traditional programming
+language such as Java?
+You must first learn to read and write a new language because computer aren't so forgiving when it comes to mistakes.
+
+2) What is learning to program ultimately about?
+Think logically and to approach problems methodically.
+
+3) How does Scratch "lower the bar" to programming?
+ Focus on problems rather than syntax, to master programmatic constructs rather than syntax.
+
+4) What is a statement in a programming language?
+A directive that tells the computer to do something.
+
+5) What is a Boolean expression?
+An expression that is either true or false. 
+
+6) What is a conditional statement?
+Something that must be true in order for something to happen.
+
+7) What is a loop used for in a programming language?
+ Multiple executions of statements.
+
+8) What is the difference between a local variable and a global variable?
+Local variable can be used by just one sprite and a global variable can be used by all of your sprites. 
+
+9) What is a Boolean variable?
+Only takes on a value of true or false, incidentally.
+
+10) Which type of blocks in Scratch can be considered threads?
+Any block whose label begins with "when." 
+
+11) Which type of blocks in Scratch can be considered event handlers?
+Blocks whose labels begin with "broadcast" signal events whereas blocks whose labels begin with "when" handle events.
+
+12) How many sprites are implemented in Oscartime?
+Nine sprites.
+
+13) How many threads are used to display the Oscartime game instructions?
+One thread.
+
+14) How many threads are used by Oscartime's Oscar sprite?
+Three threads.
+
+15) What programming constructs does Scratch NOT support? Methods, parameters, return values, and inheritance and polymorphism.
